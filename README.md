@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi There, I'm Luqmaan 👋  
 
-<!--
-**LuqmaanHak1m/LuqmaanHak1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me  
+🚀 I'm a **Website Administrator**.<br><br>
+🔧 I’m passionate about working with **Data** in fields such as **Data Engineering**, **Data Science** and **Data Analysis** with a focus on automation, reliability and scalability across irt lifecycle.<br><br>
+🌱 Currently deepening my expertise in **SQL**, **Azure**, **ETL/ ELT**.<br><br>
+🤝 Open to networking and collaborating on projects that combine **data engineering**, **cloud infrastructure**, and **automation**.<br><br>
 
-Here are some ideas to get you started:
+## 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/luqmaan-abdullahi-5870aa331)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230074D1.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Azure](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
