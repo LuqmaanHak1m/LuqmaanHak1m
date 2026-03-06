@@ -1,10 +1,11 @@
 # Hi There, I'm Luqmaan 👋  
 
 # 💫 About Me  
-🚀 I'm a **Website Administrator**.<br><br>
-🔧 I’m passionate about working with **Data** in fields such as **Data Engineering**, **Data Science** and **Data Analysis** with a focus on automation, reliability and scalability across irt lifecycle.<br><br>
-🌱 Currently deepening my expertise in **SQL**, **Azure**, **ETL/ ELT**.<br><br>
-🤝 Open to networking and collaborating on projects that combine **data engineering**, **cloud infrastructure**, and **automation**.<br><br>
+🚀 I'm a **Data & AI Engineer trainee**.<br><br>
+🔧 I’m passionate about working with **Data** in fields such as **Data Engineering**, **Data Science** and **Data Analysis** with a focus on automation, reliability and scalability across the data lifecycle.<br><br>
+I also have a passion for **Gen AI** and **Agent design**<br><br>
+🌱 Currently deepening my expertise in **Webscraping**, **Lang family**, **Deploying cloud solutions**.<br><br>
+🤝 Open to networking and collaborating on projects that combine **data engineering**, **agentic solutions**, and **automation**.<br><br>
 
 ## 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqmaan-abdullahi-5870aa331/)  
