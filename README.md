@@ -3,7 +3,7 @@
 # 💫 About Me  
 🚀 I'm a **Data & AI Engineer trainee**.<br><br>
 🔧 I’m passionate about working with **Data** in fields such as **Data Engineering**, **Data Science** and **Data Analysis** with a focus on automation, reliability and scalability across the data lifecycle.<br><br>
-I also have a passion for **Gen AI** and **Agent design**<br><br>
+🤖 I also have a passion for **Gen AI** and **Agent design**<br><br>
 🌱 Currently deepening my expertise in **Webscraping**, **Lang family**, **Deploying cloud solutions**.<br><br>
 🤝 Open to networking and collaborating on projects that combine **data engineering**, **agentic solutions**, and **automation**.<br><br>
 
